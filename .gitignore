@@ -24,3 +24,8 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+frontend/node_modules/
+frontend/.next/
+node_modules/
+.next/

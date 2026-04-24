@@ -118,8 +118,8 @@ docs/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/ia-trabalhista.git
-cd ia-trabalhista
+git clone https://github.com/K4yo-rnm/IA-Trabalhista01.git
+cd IA-Trabalhista01
 ```
 
 ---
